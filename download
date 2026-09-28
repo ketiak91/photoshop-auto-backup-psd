@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Adobe / temporary files
+*.tmp
+*.temp
+
+# Local test backups
+*_bu1_*.psd
+*_bu2_*.psd
+
+# Editor / IDE
+.vscode/
+.idea/
